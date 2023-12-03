@@ -1,13 +1,13 @@
 ### Advent of Code 2023
 
-Here are my solutions to Advent of Code 2023 written in kotlin (4/50 ⭐)
+Here are my solutions to Advent of Code 2023 written in kotlin (6/50 ⭐)
 
 https://adventofcode.com/2023/about
 
 
-| [1](src/main/kotlin/Day01.kt) | [2](src/main/kotlin/Day02.kt) | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|----|----|---|---|---|---|---|-----|-----|-----|
-| ⭐⭐ | ⭐⭐ | ☆ ☆ | ☆ ☆ | ☆ ☆ | ☆ ☆ | ☆ ☆ | ☆ ☆ | ☆ ☆ | ☆ ☆ |
+| [1](src/main/kotlin/Day01.kt) | [2](src/main/kotlin/Day02.kt) | [3](src/main/kotlin/Day03.kt) | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|----|----|-------------------------------|---|---|---|---|-----|-----|-----|
+| ⭐⭐ | ⭐⭐ | ⭐⭐                           | ☆ ☆ | ☆ ☆ | ☆ ☆ | ☆ ☆ | ☆ ☆ | ☆ ☆ | ☆ ☆ |
 
 
 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
